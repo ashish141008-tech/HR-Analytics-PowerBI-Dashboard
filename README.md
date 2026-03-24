@@ -110,7 +110,7 @@ e.Improve work-life balance policies.
 
 
 **Dashboard Preview**
-HR Dashboard 1-(file:///C:/Users/princ/AppData/Local/Temp/Power%20BI%20Desktop/print-job-96801996-80b9-444c-ad4a-369bc4fe0364/HR%20Dashboard.pdf)
+Example:[HR Dashboard]1-(https://github.com/ashish141008-tech/HR-Analytics-PowerBI-Dashboard/blob/main/HR%20Executive%20Overview.png)
 
 
 **Conclusion**
