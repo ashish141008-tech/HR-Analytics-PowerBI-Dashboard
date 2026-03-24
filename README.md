@@ -110,8 +110,8 @@ e.Improve work-life balance policies.
 
 
 **Dashboard Preview**
-Example:[HR Dashboard]1-(https://github.com/ashish141008-tech/HR-Analytics-PowerBI-Dashboard/blob/main/HR%20Executive%20Overview.png)
-
+Example:[HR Executive Overview]-(https://github.com/ashish141008-tech/HR-Analytics-PowerBI-Dashboard/blob/main/HR%20Executive%20Overview.png)
+2.[Attrition Driver Analysis]-(https://github.com/ashish141008-tech/HR-Analytics-PowerBI-Dashboard/blob/main/Attrition%20Driver%20Analysis.png)
 
 **Conclusion**
 This HR Analytics dashboard provides a comprehensive view of employee attrition and enables organizations to make data-driven decisions to improve employee satisfaction, reduce turnover, and enhance overall business performance.
