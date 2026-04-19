@@ -1,9 +1,9 @@
 ## Project Title & Headline
 
-Title:
+**Title**:
 HR Analytics Dashboard – Employee Attrition Analysis (Power BI)
 
-Headline:
+**Headline**:
 An interactive Power BI dashboard designed to analyze employee attrition data and uncover insights about workforce trends, employee behavior, and key factors influencing attrition to support data-driven HR decisions.
 
 ---
