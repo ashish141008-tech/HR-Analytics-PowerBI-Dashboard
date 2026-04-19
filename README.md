@@ -1,4 +1,4 @@
-**Project Title & Headline**
+## Project Title & Headline
 
 Title:
 HR Analytics Dashboard – Employee Attrition Analysis (Power BI)
@@ -6,14 +6,16 @@ HR Analytics Dashboard – Employee Attrition Analysis (Power BI)
 Headline:
 An interactive Power BI dashboard designed to analyze employee attrition data and uncover insights about workforce trends, employee behavior, and key factors influencing attrition to support data-driven HR decisions.
 
+---
 
-**Short Description / Purpose**
+## Short Description / Purpose
 
 This project focuses on analyzing HR data using Power BI to understand employee attrition patterns. The main purpose is to identify key factors that lead to employee turnover such as department, job role, salary, overtime, and age group.
 By transforming raw HR data into meaningful visualizations, this dashboard helps HR teams and management quickly identify problem areas and take data-driven actions to improve employee retention.
 
+---
 
-**Tech Stack**
+## Tech Stack
 
 The following tools and technologies were used in this project:
 
@@ -22,8 +24,9 @@ The following tools and technologies were used in this project:
 - DAX (Data Analysis Expressions) – KPI calculations and measures
 - Excel / CSV – Data source
 
+---
 
-**Data Source**
+## Data Source
 
 The dataset used for this project is the IBM HR Analytics Employee Attrition Dataset.
 
@@ -40,8 +43,9 @@ It contains information such as:
 
 This dataset helps analyze employee behavior, attrition trends, and workforce patterns.
 
+---
 
-**Features & Highlights**
+## Features & Highlights
 Business Problem
 
 Employee attrition is a major challenge for organizations. Without proper analysis, it is difficult to understand:
@@ -54,8 +58,9 @@ Employee attrition is a major challenge for organizations. Without proper analys
 
 Without these insights, companies may face high hiring costs and productivity loss.
 
+---
 
-**Project Goal**
+## Project Goal
 
 The goal of this project is to build an interactive HR dashboard that helps organizations:
 
@@ -65,8 +70,9 @@ The goal of this project is to build an interactive HR dashboard that helps orga
 - Analyze employee demographics
 - Improve workforce retention strategies.
 
+---
 
-**Key Visualizations & Why They Are Used**
+## Key Visualizations & Why They Are Used
 - KPI Cards (Total Employees, Attrition Count, Attrition Rate)
   Used to provide a quick overview of workforce size and attrition performance.
 
@@ -88,7 +94,9 @@ The goal of this project is to build an interactive HR dashboard that helps orga
 - Department & Overtime Analysis (Clustered Chart)
   Provides deeper insight into how overtime impacts attrition across departments.
 
-Insights Derived from the Dashboard
+---
+
+## Insights Derived from the Dashboard
 
 From the analysis, several key insights were identified:
 
@@ -100,19 +108,23 @@ From the analysis, several key insights were identified:
 
 These insights help organizations understand the root causes of attrition and take corrective actions.
 
+---
 
-**Business Recommendations**
+## Business Recommendations
 - Reduce workload and overtime in high-pressure roles
 - Improve salary structure for low-income employees
 - Focus on retention strategies for young employees
 - Optimize targets and performance pressure in Sales
 - Improve work-life balance policies.
 
+---
 
-**Dashboard Preview**
+## Dashboard Preview
 - Example:[HR Executive Overview]-(https://github.com/ashish141008-tech/HR-Analytics-PowerBI-Dashboard/blob/main/HR%20Executive%20Overview.png)
 
 - [Attrition Driver Analysis]-(https://github.com/ashish141008-tech/HR-Analytics-PowerBI-Dashboard/blob/main/Attrition%20Driver%20Analysis.png)
 
-**Conclusion**
+----
+
+## Conclusion
 This HR Analytics dashboard provides a comprehensive view of employee attrition and enables organizations to make data-driven decisions to improve employee satisfaction, reduce turnover, and enhance overall business performance.
